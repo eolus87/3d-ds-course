@@ -35,6 +35,9 @@ a NN works. Then it gets to the jupyter with the following content:
    - NNs to approximate a linear function.
    - NNs to approximate a non-linear function.
    - NNs as a binary classifier of images.
+   
+   NOTE: The dataset for this exercise is missing because images were too heavy for a 
+   github repo.
 4) __Reinforcement Learning (RL)__: It starts with a pdf where RL is explained.
 Then the contents of the notebook are as follows:
     - Thomson sampling as a classic RL algorithm.
